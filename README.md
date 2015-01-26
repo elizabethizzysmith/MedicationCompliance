@@ -1,4 +1,4 @@
-ANALYSIS OF MEDICATION COMOPLIANCE TRACKED BY A USER'S MOBILE APP 
+ANALYSIS OF MEDICATION COMPLIANCE TRACKED BY A USER'S MOBILE APP 
 
 Started with .csv file then used python, NumPy, pandas, Ipython, and matplotlib to perform statistical data analysis to generate 
 user report.  A summary of findings and suggested future data products included.
